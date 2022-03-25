@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Web-Design Homework Page
 
 You can use the [editor on GitHub](https://github.com/rjharvey10/Web-Design-Challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
