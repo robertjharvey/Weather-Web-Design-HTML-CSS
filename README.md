@@ -1,6 +1,6 @@
 ## Welcome to my Web-Design Homework Page
 
-You can use the [editor on GitHub](https://github.com/rjharvey10/Web-Design-Challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+If you would like to see the web version of the .html files included in this repository, please visit: (https://rjharvey10.github.io/Web-Design-Challenge/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
